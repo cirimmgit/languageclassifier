@@ -1,0 +1,121 @@
+Processed 'da_dataset_shuffled_full.txt', created 'da_dataset_shuffled_full_cleaned.txt'. Longest word: 'lånekontorernes' Length: 15
+Processed 'de_dataset_shuffled_full.txt', created 'de_dataset_shuffled_full_cleaned.txt'. Longest word: 'ausgangsstücken' Length: 15
+Processed 'en_dataset_shuffled_full.txt', created 'en_dataset_shuffled_full_cleaned.txt'. Longest word: 'indefensibility' Length: 15
+Processed 'eo_dataset_shuffled_full.txt', created 'eo_dataset_shuffled_full_cleaned.txt'. Longest word: 'enradikigendojn' Length: 15
+Processed 'es_dataset_shuffled_full.txt', created 'es_dataset_shuffled_full_cleaned.txt'. Longest word: 'desbarajustados' Length: 15
+Processed 'fr_dataset_shuffled_full.txt', created 'fr_dataset_shuffled_full_cleaned.txt'. Longest word: 'appréhendassiez' Length: 15
+Processed 'it_dataset_shuffled_full.txt', created 'it_dataset_shuffled_full_cleaned.txt'. Longest word: 'devitaminizzare' Length: 15
+Processed 'la_dataset_shuffled_full.txt', created 'la_dataset_shuffled_full_cleaned.txt'. Longest word: 'contraponentium' Length: 15
+Processed 'ru_dataset_shuffled_full.txt', created 'ru_dataset_shuffled_full_cleaned.txt'. Longest word: 'антимонопольный' Length: 15
+Processed 'sv_dataset_shuffled_full.txt', created 'sv_dataset_shuffled_full_cleaned.txt'. Longest word: 'metallplattorna' Length: 15
+
+Alphabet: abcdefghijklmnopqrstuvwxyzµßàáâãäåæçèéêëìíîïñòóôöøùúûüÿĉĝĥĵŝŭμυабвгдежзийклмнопрстуфхцчшщъыьэюяёі
+
+Percentage of common words between 'da' 'de': 0.99%
+Percentage of common words between 'da' 'en': 1.87%
+Percentage of common words between 'da' 'eo': 0.30%
+Percentage of common words between 'da' 'es': 0.38%
+Percentage of common words between 'da' 'fr': 0.95%
+Percentage of common words between 'da' 'it': 0.65%
+Percentage of common words between 'da' 'la': 0.31%
+Percentage of common words between 'da' 'ru': 0.00%
+Percentage of common words between 'da' 'sv': 3.69%
+Percentage of common words between 'de' 'en': 1.00%
+Percentage of common words between 'de' 'eo': 0.15%
+Percentage of common words between 'de' 'es': 0.22%
+Percentage of common words between 'de' 'fr': 0.42%
+Percentage of common words between 'de' 'it': 0.51%
+Percentage of common words between 'de' 'la': 0.17%
+Percentage of common words between 'de' 'ru': 0.00%
+Percentage of common words between 'de' 'sv': 0.63%
+Percentage of common words between 'en' 'eo': 0.38%
+Percentage of common words between 'en' 'es': 1.15%
+Percentage of common words between 'en' 'fr': 2.63%
+Percentage of common words between 'en' 'it': 1.59%
+Percentage of common words between 'en' 'la': 1.07%
+Percentage of common words between 'en' 'ru': 0.00%
+Percentage of common words between 'en' 'sv': 0.96%
+Percentage of common words between 'eo' 'es': 0.54%
+Percentage of common words between 'eo' 'fr': 0.23%
+Percentage of common words between 'eo' 'it': 0.54%
+Percentage of common words between 'eo' 'la': 0.35%
+Percentage of common words between 'eo' 'ru': 0.00%
+Percentage of common words between 'eo' 'sv': 0.22%
+Percentage of common words between 'es' 'fr': 0.89%
+Percentage of common words between 'es' 'it': 1.79%
+Percentage of common words between 'es' 'la': 1.25%
+Percentage of common words between 'es' 'ru': 0.00%
+Percentage of common words between 'es' 'sv': 0.26%
+Percentage of common words between 'fr' 'it': 0.95%
+Percentage of common words between 'fr' 'la': 0.56%
+Percentage of common words between 'fr' 'ru': 0.00%
+Percentage of common words between 'fr' 'sv': 0.50%
+Percentage of common words between 'it' 'la': 1.69%
+Percentage of common words between 'it' 'ru': 0.00%
+Percentage of common words between 'it' 'sv': 0.33%
+Percentage of common words between 'la' 'ru': 0.00%
+Percentage of common words between 'la' 'sv': 0.15%
+Percentage of common words between 'ru' 'sv': 0.00%
+
+
+
+
+File: da_dataset_shuffled_full.txt
+Lines: 308197
+Size: 3882485 bytes
+Average line length: 12.32
+Standard deviation of line lengths: 3.97
+
+File: de_dataset_shuffled_full.txt
+Lines: 2152638
+Size: 34187973 bytes
+Average line length: 15.63
+Standard deviation of line lengths: 4.27
+
+File: en_dataset_shuffled_full.txt
+Lines: 370105
+Size: 3864812 bytes
+Average line length: 10.44
+Standard deviation of line lengths: 2.92
+
+File: eo_dataset_shuffled_full.txt
+Lines: 1014378
+Size: 12459889 bytes
+Average line length: 11.99
+Standard deviation of line lengths: 2.69
+
+File: es_dataset_shuffled_full.txt
+Lines: 636598
+Size: 7055621 bytes
+Average line length: 11.06
+Standard deviation of line lengths: 2.32
+
+File: fr_dataset_shuffled_full.txt
+Lines: 336524
+Size: 3895899 bytes
+Average line length: 11.09
+Standard deviation of line lengths: 2.60
+
+File: it_dataset_shuffled_full.txt
+Lines: 988052
+Size: 10856604 bytes
+Average line length: 10.96
+Standard deviation of line lengths: 2.73
+
+File: la_dataset_shuffled_full.txt
+Lines: 1032669
+Size: 12074733 bytes
+Average line length: 11.69
+Standard deviation of line lengths: 2.45
+
+File: ru_dataset_shuffled_full.txt
+Lines: 58824
+Size: 1147284 bytes
+Average line length: 10.26
+Standard deviation of line lengths: 3.02
+
+File: sv_dataset_shuffled_full.txt
+Lines: 403995
+Size: 5316686 bytes
+Average line length: 12.70
+Standard deviation of line lengths: 3.90
